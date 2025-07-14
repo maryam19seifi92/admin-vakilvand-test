@@ -1,0 +1,14 @@
+@import 'vue3-perfect-scrollbar/dist/vue3-perfect-scrollbar.css';
+@import 'tippy.js/dist/tippy.css';
+@import '@bhplugin/vue3-datatable/dist/style.css';
+@import 'file-upload-with-preview/dist/file-upload-with-preview.min.css';
+@import 'tailwind.css';
+
+@import '~/assets/font/IranYekan/css/fontiran.css';
+
+body {
+    font-family: iranyekan;
+}
+* {
+    font-family: iranyekan;
+}
